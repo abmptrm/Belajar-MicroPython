@@ -13,12 +13,13 @@ while True:
     lcd.begin()
     lcd.clear()
     lcd.set_cursor(2, 0)
-    lcd.print("Hello World!")
+    lcd.print("KEREN  KEREN")
     sleep(0.5)
     lcd.clear()
     lcd.set_cursor(2, 1)
-    lcd.print("Hello World!")
+    lcd.print("KEREN  KEREN")
     sleep(0.5)
+    
     
 
 
